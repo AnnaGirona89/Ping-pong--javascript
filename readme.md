@@ -1,6 +1,7 @@
-/* DOCTYPE---
-<html>
+!DOCTYPE
+
     <body>
+    ![Texto alternativo](trebuchet-medieval.jpg "Trebuchet Medieval")
         <table>
   <caption>TrebuchetV21-Lo quieres? Lo tienes.</caption>
   <colgroup>
