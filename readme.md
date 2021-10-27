@@ -1,35 +1,36 @@
-!DOCTYPE
+\documentclass{article}
+\usepackage[utf8]{inputenc}
 
-    <body>
-    ![Texto alternativo](trebuchet-medieval.jpg "Trebuchet Medieval")
-        <table>
-  <caption>TrebuchetV21-Lo quieres? Lo tienes.</caption>
-  <colgroup>
-    <col span="1" style="background-color:red">
-    <col span="2" style="background-color:green">
-  </colgroup>
-  <tr>
-    <th>Presentación</th>
-    <th>Proyecto</th> 
-    <th>Instalación</th> 
-    <th>Instrucciones opreacionales</th>
-    <th>Agradecimientos</th> 
-  </tr>
-  <tr>
-    <td>Intruducir</td>
-    <td>el</td>
-    <td>Contenido</td>
-  </tr>
-  <tr>
-    <td>Este proyecto, ha sido básicamente desarrollado por pura fanfarronería, al principio nadie confiaba y por ello, un ansia por hacer entender que aquí se es capaz de cualquier cosa, dió lugar a una reacción en cadena de operaciones y planteamientos, dignos de edificaciones faraónicas en siglos pasados. Este es el nuevo modelo, la intimidación con intimidación se paga. </td>
-    <td>Gimenez</td>
-    <td>34</td>
-  </tr>
-  <tr>
-    <td>María</td>
-    <td>Ruiz</td>
-    <td>87</td>
-  </tr>
-</table>
-       </body>
-</html>
+\title{TrebuchetV21}
+\author{Lo quieres?, Lo tienes.}
+
+\begin{document}
+  
+\maketitle
+  
+\tableofcontents
+
+\addcontentsline{toc}{section}{Presentacion}
+\section{Presentación}
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  
+Etiam lobortis facilisissem.  Nullam nec mi et neque pharetra 
+sollicitudin.  Praesent imperdiet mi necante...
+
+\section{Proyecto}
+Descripción
+Este proyecto, ha sido básicamente desarrollado por pura fanfarronería, al principio nadie confiaba y por ello, un ansia por hacer entender que aquí se es capaz de cualquier cosa, dió lugar a una reacción en cadena de operaciones y planteamientos, dignos de edificaciones faraónicas en siglos pasados. Este es el nuevo modelo, la intimidación con intimidación se paga.
+
+\addcontentsline{toc}{section}{Manual de instalación}
+\section*{Unnumbered Section}
+
+
+\addcontentsline{toc}{section}{Instalación}
+\section*{Unnumbered Section}
+
+\addcontentsline{toc}{section}{Instrucciones opreacionales}
+\section*{Unnumbered Section}
+
+\addcontentsline{toc}{section}{Agradecimientos}
+\section*{Unnumbered Section}
+
+\end{document}
