@@ -21,7 +21,7 @@
     <td>Contenido</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Este proyecto, ha sido básicamente desarrollado por pura fanfarronería, al principio nadie confiaba y por ello, un ansia por hacer entender que aquí se es capaz de cualquier cosa, dió lugar a una reacción en cadena de operaciones y planteamientos, dignos de edificaciones faraónicas en siglos pasados. Este es el nuevo modelo, la intimidación con intimidación se paga. </td>
     <td>Gimenez</td>
     <td>34</td>
   </tr>
