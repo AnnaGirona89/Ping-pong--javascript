@@ -1,8 +1,13 @@
 !DOCTYPE
+    
 
-    <body>
-    ![Texto alternativo](trebuchet-medieval.jpg "Trebuchet Medieval")
-        <table>
+ <body>
+![Texto alternativo](trebuchet-medieval.jpg "Trebuchet Medieval")
+<h2>PRESENTACIÓN</h2>
+<p>
+Las dimensiones de cada uno de los componentes del fundíbulo determinan el funcionamiento que tendrá el arma. La viga es uno de los elementos cruciales. Debe ser lo más ligera posible, pero lo suficientemente fuerte para no romperse en el disparo. La proporción entre los brazos largo y corto de la viga y la longitud de la honda son factores muy importantes para determinar el alcance que logrará el proyectil. El propósito de un buen diseño es convertir la mayor cantidad posible de la energía potencial del contrapeso en energía cinética para el proyectil. </p>
+
+<table>
   <caption>TrebuchetV21-Lo quieres? Lo tienes.</caption>
   <colgroup>
     <col span="1" style="background-color:red">
