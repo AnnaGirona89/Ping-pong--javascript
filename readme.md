@@ -1,18 +1,14 @@
-\documentclass{article}
-\usepackage[utf8]{inputenc}
+#TrebuchetV21
+##Lo quieres?, Lo tienes.
 
-\title{TrebuchetV21}
-\author{Lo quieres?, Lo tienes.}
+###Contenido:
+1. [Presentación](#example)
+2. [Proyecto](#example2)
+3. [Manual de instalación](#third-example)
+4. [Instrucciones operacionales](#third-example)
+4. [Agradecimientos](#third-example)
 
-\begin{document}
-  
-\maketitle
-  
-\tableofcontents
 
-\addcontentsline{toc}{section}{Presentacion}
-
-\section{Presentación}
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  
 Etiam lobortis facilisissem.  Nullam nec mi et neque pharetra 
 sollicitudin.  Praesent imperdiet mi necante...
@@ -28,8 +24,9 @@ Este proyecto, ha sido básicamente desarrollado por pura fanfarronería, al pri
 \addcontentsline{toc}{section}{Instalación}
 \section*{Unnumbered Section}
 
-\addcontentsline{toc}{section}{Instrucciones opreacionales}
+\addcontentsline{toc}{section}{Instrucciones operacionales}
 \section*{Unnumbered Section}
+Las instrucciones de toda la vida.
 
 \addcontentsline{toc}{section}{Agradecimientos}
 \section*{Unnumbered Section}
